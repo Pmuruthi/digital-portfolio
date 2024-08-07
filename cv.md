@@ -54,33 +54,41 @@ As a data scientist with a PhD degree and 5 years of work experience (see [Educa
 
 To satisfy my eagerness for knowledge, I enroll in online courses in areas of Artificial Intelligence and Software Engineering that pique my interest and undertake independent projects during my leisure hours. A few examples of such projects include:
 
-{grid}
+::::{grid}
+:gutter: 3
 
-:gutter: 2
-
-{grid-item-card}
+:::{grid-item-card}
 **Microsoft Certified: Azure Data Scientist Associate**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **AWS Certified: Machine Learning – Specialty**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **Deep Learning Specialization - Coursera**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **Machine Learning Engineer Nanodegree - Udacity**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **React Nanodegree - Udacity**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **Statistics Specialization: Introduction to Probability and Data, Inferential Statistics - by Duke University - Coursera**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **Python Data Science and Machine Learning Bootcamp - Udemy**
+:::
 
-{grid-item-card}
+:::{grid-item-card}
 **Mathematics for Machine Learning Specialization - Coursera**
+:::
+::::
 
 ## Publications
 
